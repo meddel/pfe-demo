@@ -13,4 +13,5 @@
     <string name="menu_gestMap">Gestion des lignes</string>
     <string name="menu_gestBus">Gestion des bus</string>
     <string name="menu_gestCourse">Gestion des course</string>
+    <string name="ajouter_station">ajouter station</string>
 </resources>
